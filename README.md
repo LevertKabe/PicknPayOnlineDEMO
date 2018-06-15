@@ -8,7 +8,7 @@ LANGUAGE:
 - HTML
 - CSS 
 - AngualarJS
-- SQl(for testing purposes)
+- SQL(for testing purposes)
 
 FRAMEWORKS:
 - Spring framework
